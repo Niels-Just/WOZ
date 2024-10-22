@@ -1,0 +1,29 @@
+/Users/niels-just/RiderProjects/WOZ game/WOZ game/bin/Debug/net8.0/WOZ game
+/Users/niels-just/RiderProjects/WOZ game/WOZ game/bin/Debug/net8.0/WOZ game.deps.json
+/Users/niels-just/RiderProjects/WOZ game/WOZ game/bin/Debug/net8.0/WOZ game.runtimeconfig.json
+/Users/niels-just/RiderProjects/WOZ game/WOZ game/bin/Debug/net8.0/WOZ game.dll
+/Users/niels-just/RiderProjects/WOZ game/WOZ game/bin/Debug/net8.0/WOZ game.pdb
+/Users/niels-just/RiderProjects/WOZ game/WOZ game/obj/Debug/net8.0/WOZ game.GeneratedMSBuildEditorConfig.editorconfig
+/Users/niels-just/RiderProjects/WOZ game/WOZ game/obj/Debug/net8.0/WOZ game.AssemblyInfoInputs.cache
+/Users/niels-just/RiderProjects/WOZ game/WOZ game/obj/Debug/net8.0/WOZ game.AssemblyInfo.cs
+/Users/niels-just/RiderProjects/WOZ game/WOZ game/obj/Debug/net8.0/WOZ game.csproj.CoreCompileInputs.cache
+/Users/niels-just/RiderProjects/WOZ game/WOZ game/obj/Debug/net8.0/WOZ game.dll
+/Users/niels-just/RiderProjects/WOZ game/WOZ game/obj/Debug/net8.0/refint/WOZ game.dll
+/Users/niels-just/RiderProjects/WOZ game/WOZ game/obj/Debug/net8.0/WOZ game.pdb
+/Users/niels-just/RiderProjects/WOZ game/WOZ game/obj/Debug/net8.0/WOZ game.genruntimeconfig.cache
+/Users/niels-just/RiderProjects/WOZ game/WOZ game/obj/Debug/net8.0/ref/WOZ game.dll
+/Users/niels-just/WOZ/WOZ game/bin/Debug/net8.0/WOZ game
+/Users/niels-just/WOZ/WOZ game/bin/Debug/net8.0/WOZ game.deps.json
+/Users/niels-just/WOZ/WOZ game/bin/Debug/net8.0/WOZ game.runtimeconfig.json
+/Users/niels-just/WOZ/WOZ game/bin/Debug/net8.0/WOZ game.dll
+/Users/niels-just/WOZ/WOZ game/bin/Debug/net8.0/WOZ game.pdb
+/Users/niels-just/WOZ/WOZ game/obj/Debug/net8.0/WOZ game.GeneratedMSBuildEditorConfig.editorconfig
+/Users/niels-just/WOZ/WOZ game/obj/Debug/net8.0/WOZ game.AssemblyInfoInputs.cache
+/Users/niels-just/WOZ/WOZ game/obj/Debug/net8.0/WOZ game.AssemblyInfo.cs
+/Users/niels-just/WOZ/WOZ game/obj/Debug/net8.0/WOZ game.csproj.CoreCompileInputs.cache
+/Users/niels-just/WOZ/WOZ game/obj/Debug/net8.0/WOZ game.sourcelink.json
+/Users/niels-just/WOZ/WOZ game/obj/Debug/net8.0/WOZ game.dll
+/Users/niels-just/WOZ/WOZ game/obj/Debug/net8.0/refint/WOZ game.dll
+/Users/niels-just/WOZ/WOZ game/obj/Debug/net8.0/WOZ game.pdb
+/Users/niels-just/WOZ/WOZ game/obj/Debug/net8.0/WOZ game.genruntimeconfig.cache
+/Users/niels-just/WOZ/WOZ game/obj/Debug/net8.0/ref/WOZ game.dll
