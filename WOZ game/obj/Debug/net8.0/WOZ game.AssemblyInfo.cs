@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WOZ game")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1410d1a25b8306a1da85a8706cda339b3730c11d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+86e633196fe6b66d48eeb0f00494917863503732")]
 [assembly: System.Reflection.AssemblyProductAttribute("WOZ game")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WOZ game")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
